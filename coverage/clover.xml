@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1713778183594" clover="3.2.0">
+  <project timestamp="1713778183595" name="All files">
+    <metrics statements="10" coveredstatements="10" conditionals="19" coveredconditionals="19" methods="1" coveredmethods="1" elements="30" coveredelements="30" complexity="0" loc="10" ncloc="10" packages="1" files="1" classes="1"/>
+    <file name="index.js" path="C:\CMK\Moringa\test-driven-development\index.js">
+      <metrics statements="10" coveredstatements="10" conditionals="19" coveredconditionals="19" methods="1" coveredmethods="1"/>
+      <line num="2" count="11" type="cond" truecount="5" falsecount="0"/>
+      <line num="3" count="2" type="stmt"/>
+      <line num="6" count="9" type="cond" truecount="5" falsecount="0"/>
+      <line num="7" count="3" type="stmt"/>
+      <line num="10" count="6" type="cond" truecount="4" falsecount="0"/>
+      <line num="11" count="1" type="stmt"/>
+      <line num="14" count="5" type="cond" truecount="5" falsecount="0"/>
+      <line num="15" count="3" type="stmt"/>
+      <line num="18" count="2" type="stmt"/>
+      <line num="21" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
